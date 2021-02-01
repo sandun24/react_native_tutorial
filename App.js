@@ -31,7 +31,7 @@ export default function App() {
         placeholder='e.g. 24'
         onChangeText={changeAge}
          />
-      <Text>{name} is {age} years old</Text>
+      <Text>{name} is {age} years old!!</Text>
     </View>
   );
 }
